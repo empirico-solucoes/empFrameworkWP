@@ -15,7 +15,7 @@ A principal diferença do projeto atual é que o mesmo ao invés de ativar todos
 * Version: 0.0.0.2
 
 
-## References ##
+## Referências ##
 * [Bootstrap](http://getbootstrap.com/)
 * [JQuery](http://jquery.com/)
 * [wp-bootstrap-navwalker](https://github.com/twittem/wp-bootstrap-navwalker)
