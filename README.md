@@ -4,14 +4,15 @@ O framework ainda está em seu estágio inicial. Aqui estou criando as primeiras
 
 A principal diferença do projeto atual é que o mesmo ao invés de ativar todos os recursos do Wordpress, deixa que o programador tome tal decisão, ou seja, ative apenas o que você precisa!
 
-Name: empFramework WP
-Theme URI: http://www.empirico.com.br/temas/EMP027
-Author: Daniel Bahia - EMPÍRICO Soluções
-Author URI: http://www.empirico.com.br
-Email: aplicacoes@empirico.com.br
-License: GPL-2.0+
-License License URI: http://www.gnu.org/licenses/gpl-2.0.txt
-Version: 0.0.0.2
+## Informações gerais ##
+* Name: empFramework WP
+* Theme URI: http://www.empirico.com.br/temas/EMP027
+* Author: Daniel Bahia - EMPÍRICO Soluções
+* Author URI: http://www.empirico.com.br
+* Email: aplicacoes@empirico.com.br
+* License: GPL-2.0+
+* License License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+* Version: 0.0.0.2
 
 
 ## References ##
