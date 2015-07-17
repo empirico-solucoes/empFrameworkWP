@@ -6,7 +6,6 @@ A principal diferença do projeto atual é que o mesmo ao invés de ativar todos
 
 ## Informações gerais ##
 * Name: empFramework WP
-* Theme URI: http://www.empirico.com.br/temas/EMP027
 * Author: Daniel Bahia - EMPÍRICO Soluções
 * Author URI: http://www.empirico.com.br
 * Email: aplicacoes@empirico.com.br
